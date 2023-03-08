@@ -1,0 +1,17 @@
+.container .row {
+  background: firebrick;
+  color: azure;
+  padding: 15px;
+}
+#header {
+  height: 150px;
+}
+#content {
+  height: 600px;
+}
+#sidebar {
+  height: 600px;
+}
+#footer {
+  height: 150px;
+}
